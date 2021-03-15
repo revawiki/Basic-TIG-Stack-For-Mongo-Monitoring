@@ -34,7 +34,7 @@ $ ./up.sh
 
 ## Credits
 
-* [Dashboard Temlate](https://grafana.com/grafana/dashboards/2583) by Saada
+* [Dashboard Template](https://grafana.com/grafana/dashboards/2583) by Saada
 
 ##### Question/Inquiries
 If you have any question regarding the repo, feel free to e-mail me at reva.wiki@gmail.com. Thank you.
